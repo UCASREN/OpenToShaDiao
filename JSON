@@ -1,0 +1,34 @@
+{
+    "intentions":[
+        {
+            "name":"call",
+            "attributes":[
+                {
+                    "phoneNumber":[
+                        "软终端"
+                    ],
+                    "dialMode":[
+                        "手机"
+                    ],
+                    "name":[
+                        "胡仁林"
+                    ]
+                }
+            ],
+            "confidence":1
+        }
+    ],
+    "slotsOption":{
+        "sys.name":[
+            {
+                "oriText":"胡仁林",
+                "standardName":"胡仁林",
+                "origin":"1520318556915",
+                "type":"nr",
+                "charOffset":13
+            }
+        ]
+    },
+    "code":0,
+    "message":"成功"
+}
